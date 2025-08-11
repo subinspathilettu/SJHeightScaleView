@@ -74,7 +74,9 @@ The view includes a segmented control to toggle between centimeters and feet/inc
 
 ## Example
 
-![HeightScaleView Screenshot](docs/screenshot.png)
+![HeightScaleView Screenshot](docs/Screenshot_1.png)
+
+![HeightScaleView Screenshot](docs/Screenshot_2.png)
 
 ## License
 
