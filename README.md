@@ -1,5 +1,11 @@
 # HeightScaleView
 
+[![Swift](https://img.shields.io/badge/Swift-5.0%2B-orange?logo=swift)](https://swift.org)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![SwiftPM](https://img.shields.io/badge/SwiftPM-compatible-brightgreen?logo=swift)](https://swift.org/package-manager/)
+
+# HeightScaleView
+
 HeightScaleView is a customizable Swift UI component that provides an interactive height selection interface, similar to a physical measuring scale. It supports both metric (centimeters) and imperial (feet/inches) units, making it ideal for health, fitness, or onboarding apps where users need to select their height.
 
 ## Features
