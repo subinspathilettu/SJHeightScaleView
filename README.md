@@ -19,7 +19,7 @@ HeightScaleView is a customizable Swift UI component that provides an interactiv
 Add HeightScaleView to your `Package.swift` dependencies:
 
 ```swift
-.package(url: "https://github.com/yourusername/HeightScaleView.git", from: "1.0.0")
+.package(url: "https://github.com/subinspathilettu/SJHeightScaleView", from: "1.0.0")
 ```
 
 And add it to your target dependencies:
